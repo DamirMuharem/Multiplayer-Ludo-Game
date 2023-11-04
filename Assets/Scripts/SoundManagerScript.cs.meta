@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8c24b004eb3ec5a41a41cb97da9d999b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonAudioClip: {fileID: 8300000, guid: dcacfa67fd65e4244bb493d6bf927e74, type: 3}
+  - dismissalAudioClip: {fileID: 8300000, guid: 3ffa53419367d491b8ae38f57c69ca17,
+      type: 3}
+  - diceAudioClip: {fileID: 8300000, guid: a4de6a2662417420ba10d874a2ed3f91, type: 3}
+  - winAudioClip: {fileID: 8300000, guid: 5dfc9ce5df71840ce899e1152130d34f, type: 3}
+  - safeHouseAudioClip: {fileID: 8300000, guid: cefec467e162c45c3a0bad071d9e5694,
+      type: 3}
+  - playerAudioClip: {fileID: 8300000, guid: bdd61dd4fb56149efa0a82aee8a8bc87, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

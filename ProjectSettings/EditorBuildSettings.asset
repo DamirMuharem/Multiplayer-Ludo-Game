@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/HomePage_Updated.unity
+    guid: fa41b721149e0904b814691bccc313b5
+  - enabled: 1
+    path: Assets/Scenes/5_cross_5.unity
+    guid: 14a2bc9d1a092ff42abf74dd0bb1a374
+  - enabled: 1
+    path: Assets/Scenes/5chall.unity
+    guid: 22b558609514d9947a33db2001e0e3d3
+  - enabled: 1
+    path: Assets/Scenes/7_cross_7.unity
+    guid: 5b8c76f4dd592a14a887fd81d18c93aa
+  - enabled: 1
+    path: Assets/Scenes/Ludo_Challenge.unity
+    guid: db307a714f697a44fb804959651e38bf
+  - enabled: 1
+    path: Assets/Scenes/LUDO.unity
+    guid: 27efdc4d68f7b074fa80682dc8947c3d
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 18cdc1d3455175244b5e9c20bae592f2
+  - enabled: 1
+    path: Assets/Scenes/Ludo_challenge_pop_up.unity
+    guid: 6640a0167ab3d0c4cab2e263de08bae9
+  - enabled: 1
+    path: Assets/Scenes/UI_Pop.unity
+    guid: 55e9fc29be127984a8c0f1770a75e265
+  - enabled: 1
+    path: Assets/Scenes/Load_Scene_Online.unity
+    guid: 6e2c5923b57ec0447ac6a010185925bd
+  - enabled: 1
+    path: Assets/Scenes/Create_Room_Multiplayer.unity
+    guid: 110498b5c1123584f938097c9367c490
+  - enabled: 1
+    path: Assets/Scenes/Join_Room_Multiplayer.unity
+    guid: 70396dd520ace79418278c94787709a7
+  - enabled: 1
+    path: Assets/Scenes/Load_Scene_Create_Room.unity
+    guid: 6e20db866aba2144ab9a05b79b8d90bd
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer_Lobby.unity
+    guid: 0cae42c45da3e5d4290330d0f4737bcc
+  - enabled: 1
+    path: Assets/Scenes/LUDO_Multiplayer.unity
+    guid: 4e7fabdb517994542b699b433c2eadfc
+  m_configObjects: {}
